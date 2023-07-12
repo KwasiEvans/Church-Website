@@ -73,10 +73,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li class=""><a href="index.php"><i class="lnr lnr-power-switch"></i><span>Dashboard</span></a></li>
 						<li class="menu-list">
 							<a href="#"><i class="lnr lnr-list"></i>
-								<span>Manage News</span></a>
+								<span>Manage Testimony</span></a>
 								<ul class="sub-menu-list">
-									<li><a href="compose-news.php">Compose News</a> </li>
-									<li><a href="all-news.php">All News</a></li>
+									<li><a href="compose-news.php">Compose Testimony</a> </li>
+									<li><a href="all-news.php">All Testimony</a></li>
 								</ul>
 						</li>
 						<li class="menu-list">

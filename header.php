@@ -84,7 +84,7 @@ include "connect.php";
                  <li><a href="events.php">Events</a>
                   
                 </li>
-                <li><a href="news-updates.php">News Update</a>
+                <li><a href="news-updates.php">Testimony Update</a>
                 </li>
                 <li><a href="gallery.php">Gallery</a>
                 </li>
